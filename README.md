@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#002366;"><strong>📘 LeetCode SQL50 – My Solutions</strong></h1>
 
-Welcome to my personal repository where I’m solving the **Top 50 SQL Problems** from [LeetCode SQL50 Study Plan](https://leetcode.com/study-plan/sql/).  
-This is part of my journey to master SQL for interviews and real-world data tasks.
+Hey there! 👋 I'm currently on a mission to **master SQL** through the [LeetCode SQL50 Study Plan](https://leetcode.com/study-plan/sql/).  
+This repo contains my clean, working solutions to selected problems — all tested and solved using real SQL logic.
 
 ---
 
@@ -10,7 +10,12 @@ This is part of my journey to master SQL for interviews and real-world data task
 This repo includes:
 - ✅ Solved Problems: **7 / 50**
 - 📁 Clean SQL solutions with comments (where needed)
-- 🧠 Great for SQL practice and revision
+
+## 💡 Why This Repo?
+- 👨‍💻 **Hands-on Practice:** Reinforcing my SQL knowledge through problem-solving.
+- 💼 **Interview Prep:** Many questions mimic real-world interview tasks.
+- 🧠 **Learning by Doing:** Every solution helps me think like a data analyst.
+- 🌐 **Public Proof of Work:** Demonstrating my SQL learning journey.
 
 ---
 
@@ -84,9 +89,9 @@ This repo includes:
 ---
 
 
-## 🙌 Stay Connected
+## ⭐ Let's Connect
 
-If you find this helpful, consider giving the repo a ⭐  
+If you're also solving SQL problems or found this helpful, feel free to **star** the rep
 Let’s connect on [LinkedIn](https://www.linkedin.com/in/kammala-kalyan-a24909290/)!
 
 ---
